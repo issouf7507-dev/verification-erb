@@ -1,0 +1,19 @@
+# Données bancaires du client : ne jamais les versionner
+*.xlsx
+*.xlsm
+*.xls
+*.csv
+*.pdf
+*.zip
+~$*
+verification/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Système
+.DS_Store
+Thumbs.db
