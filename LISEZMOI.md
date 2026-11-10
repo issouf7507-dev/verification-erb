@@ -12,7 +12,7 @@ fichier Excel de vérification ligne à ligne.
 2. Récupérer le dépôt puis installer la dépendance :
 
 ```bash
-git clone <url-du-depot>
+git clone https://github.com/issouf7507-dev/verification-erb.git
 cd verification-erb
 python -m venv .venv
 # macOS / Linux

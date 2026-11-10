@@ -39,7 +39,7 @@ Le script met les deux ERB côte à côte, ligne par ligne. Il signale :
 Avec Git (recommandé, pour recevoir les mises à jour) :
 
 ```bash
-git clone <url-du-depot> verification-erb
+git clone https://github.com/issouf7507-dev/verification-erb.git
 ```
 
 Sans Git : télécharger le dépôt en ZIP depuis GitHub (bouton **Code → Download ZIP**), puis le décompresser.
