@@ -3,6 +3,8 @@
 Compare l'ERB (état de rapprochement bancaire) préparé par Sanlam avec l'ERB généré par Finaptik, et produit un
 fichier Excel de vérification ligne à ligne.
 
+👉 **Guide pas à pas pour les utilisateurs : [GUIDE_UTILISATEUR.md](GUIDE_UTILISATEUR.md)**
+
 ## Installation (une seule fois)
 
 1. Installer Python 3.10 ou plus récent : https://www.python.org/downloads/
